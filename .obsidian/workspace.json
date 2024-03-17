@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "a25719ef57b97e60",
+    "type": "split",
+    "children": [
+      {
+        "id": "d26d52c4a882498d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5eff81d66f05f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7670190e6b22fa1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb9c11cea7b8a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d4e7a7d938b5f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6158a5eb8c4a1524",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bad6ff35d9399a8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "baf214e7e4f873a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e969fe251731cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43e82a4715481cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8cb30fb365eb84f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e86440310d72cba1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fe9d400f217695f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b5eff81d66f05f09",
+  "lastOpenFiles": [
+    "database/database.sqlite-journal",
+    "resources/lang/en/validation.php",
+    "resources/lang/en/passwords.php",
+    "resources/lang/en/pagination.php",
+    "resources/lang/en/auth.php",
+    "resources/lang/en",
+    "resources/lang",
+    "resources/assets/sass/app.scss",
+    "resources/assets/sass",
+    "resources/assets",
+    "resources/en/validation.php",
+    "README.md",
+    "Notes.md"
+  ]
+}
